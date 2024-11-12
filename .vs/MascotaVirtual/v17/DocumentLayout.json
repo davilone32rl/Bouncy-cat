@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dada\\source\\repos\\MascotaVirtual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F219057-FC3F-40E1-ADC9-E9E0C786C6BA}|MascotaVirtual\\MascotaVirtual.csproj|c:\\users\\dada\\source\\repos\\mascotavirtual\\mascotavirtual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F219057-FC3F-40E1-ADC9-E9E0C786C6BA}|MascotaVirtual\\MascotaVirtual.csproj|solutionrelative:mascotavirtual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F219057-FC3F-40E1-ADC9-E9E0C786C6BA}|MascotaVirtual\\MascotaVirtual.csproj|c:\\users\\dada\\source\\repos\\mascotavirtual\\mascotavirtual\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F219057-FC3F-40E1-ADC9-E9E0C786C6BA}|MascotaVirtual\\MascotaVirtual.csproj|solutionrelative:mascotavirtual\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F219057-FC3F-40E1-ADC9-E9E0C786C6BA}|MascotaVirtual\\MascotaVirtual.csproj|c:\\users\\dada\\source\\repos\\mascotavirtual\\mascotavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F219057-FC3F-40E1-ADC9-E9E0C786C6BA}|MascotaVirtual\\MascotaVirtual.csproj|solutionrelative:mascotavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F219057-FC3F-40E1-ADC9-E9E0C786C6BA}|MascotaVirtual\\MascotaVirtual.csproj|c:\\users\\dada\\source\\repos\\mascotavirtual\\mascotavirtual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F219057-FC3F-40E1-ADC9-E9E0C786C6BA}|MascotaVirtual\\MascotaVirtual.csproj|solutionrelative:mascotavirtual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dada\\source\\repos\\MascotaVirtual\\MascotaVirtual\\Form1.cs",
+              "RelativeDocumentMoniker": "MascotaVirtual\\Form1.cs",
+              "ToolTip": "C:\\Users\\dada\\source\\repos\\MascotaVirtual\\MascotaVirtual\\Form1.cs",
+              "RelativeToolTip": "MascotaVirtual\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:50:35.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dada\\source\\repos\\MascotaVirtual\\MascotaVirtual\\Program.cs",
+              "RelativeDocumentMoniker": "MascotaVirtual\\Program.cs",
+              "ToolTip": "C:\\Users\\dada\\source\\repos\\MascotaVirtual\\MascotaVirtual\\Program.cs",
+              "RelativeToolTip": "MascotaVirtual\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:50:11.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dada\\source\\repos\\MascotaVirtual\\MascotaVirtual\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MascotaVirtual\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dada\\source\\repos\\MascotaVirtual\\MascotaVirtual\\Form1.Designer.cs",
+              "RelativeToolTip": "MascotaVirtual\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:48:23.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dada\\source\\repos\\MascotaVirtual\\MascotaVirtual\\Form1.cs",
+              "RelativeDocumentMoniker": "MascotaVirtual\\Form1.cs",
+              "ToolTip": "C:\\Users\\dada\\source\\repos\\MascotaVirtual\\MascotaVirtual\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MascotaVirtual\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:47:30.954Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

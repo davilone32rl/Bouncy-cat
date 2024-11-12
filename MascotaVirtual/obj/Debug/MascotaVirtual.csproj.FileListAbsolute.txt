@@ -1,0 +1,10 @@
+C:\Users\dada\source\repos\MascotaVirtual\MascotaVirtual\bin\Debug\MascotaVirtual.exe.config
+C:\Users\dada\source\repos\MascotaVirtual\MascotaVirtual\bin\Debug\MascotaVirtual.exe
+C:\Users\dada\source\repos\MascotaVirtual\MascotaVirtual\bin\Debug\MascotaVirtual.pdb
+C:\Users\dada\source\repos\MascotaVirtual\MascotaVirtual\obj\Debug\MascotaVirtual.csproj.AssemblyReference.cache
+C:\Users\dada\source\repos\MascotaVirtual\MascotaVirtual\obj\Debug\MascotaVirtual.Form1.resources
+C:\Users\dada\source\repos\MascotaVirtual\MascotaVirtual\obj\Debug\MascotaVirtual.Properties.Resources.resources
+C:\Users\dada\source\repos\MascotaVirtual\MascotaVirtual\obj\Debug\MascotaVirtual.csproj.GenerateResource.cache
+C:\Users\dada\source\repos\MascotaVirtual\MascotaVirtual\obj\Debug\MascotaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\dada\source\repos\MascotaVirtual\MascotaVirtual\obj\Debug\MascotaVirtual.exe
+C:\Users\dada\source\repos\MascotaVirtual\MascotaVirtual\obj\Debug\MascotaVirtual.pdb
